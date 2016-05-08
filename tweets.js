@@ -7,6 +7,10 @@
 //==============================================================================
 // Given a string, return the number of characters in that string
 function countChars(userString) {
+  var str = "Watching Scandel"
+  var n = str.length;
+  return countChars
+
   //your code here
   //don't forget to return the number of characters (use return!)
 }
